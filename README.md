@@ -1,4 +1,6 @@
-# Hi, I'm Pollito96 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi,+I'm+Pollito96&center=true&width=500&height=50">
+</p>
 
 I’m a **Full Stack Developer** with experience in **AWS cloud services**, currently working as an intern at **KLBRS**, and studying **Cross-Platform Application Development**.
 

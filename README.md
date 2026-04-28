@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Pollito96 
+# Hi, I'm Pollito96 
 
 I’m a **Full Stack Developer** with experience in **AWS cloud services**, currently working as an intern at **KLBRS**, and studying **Cross-Platform Application Development**.
 

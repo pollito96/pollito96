@@ -56,7 +56,7 @@ Alongside my main focus areas, I also explore **game development** as a creative
 ## 📫 Contact
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/víctor-irribarría-sánchez-338555406/)
-[![Email](https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white)](mailto:irri96@gmail.com)
+[![Email](https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&to=irri96@gmail.com)
 
 ---
 

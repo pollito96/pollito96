@@ -16,9 +16,9 @@ Alongside my main focus areas, I also explore **game development** as a creative
 
 ---
 
-## 🚀 Tech Stack
+## Tech Stack
 
-### 💻 Programming Languages
+### Programming Languages
 ![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
@@ -26,23 +26,23 @@ Alongside my main focus areas, I also explore **game development** as a creative
 
 ---
 
-### ⚙️ Backend
+### Backend
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=white)
 
 ---
 
-### 🌐 Frontend
+### Frontend
 ![Angular](https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white)
 ![Vue](https://img.shields.io/badge/Vue-4FC08D?logo=vue.js&logoColor=white)
 
 ---
 
-### ☁️ Cloud & DevOps
+### Cloud & DevOps
 ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white)
 
 ---
 
-## 🔐 Interests
+## Interests
 
 - Cybersecurity & secure software development  
 - Cloud security & AWS architecture  
@@ -53,14 +53,14 @@ Alongside my main focus areas, I also explore **game development** as a creative
 ---
 
 
-## 📫 Contact
+## Contact
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/víctor-irribarría-sánchez-338555406/)
 [![Email](https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&to=irri96@gmail.com)
 
 ---
 
-## ⚡ Goals
+## Goals
 
 - Deepen knowledge in **cybersecurity (pentesting & secure architecture)**
 - Improve **cloud-native application development with AWS**

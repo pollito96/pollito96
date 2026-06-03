@@ -80,8 +80,17 @@ I'm currently expanding my expertise in **AWS, containerization, infrastructure 
 
 ## Contact
 
+🌐 **Portfolio**  
+https://pollito96.github.io
+
 [![Portfolio](https://img.shields.io/badge/View_My_Portfolio-181717?logo=githubpages&logoColor=white)](https://pollito96.github.io)
 
+💼 **LinkedIn**  
+Professional profile, experience and certifications
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/víctor-irribarría-sánchez-338555406/)
+
+📧 **Email**  
+irri96@gmail.com
 
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:irri96@gmail.com)

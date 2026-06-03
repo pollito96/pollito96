@@ -78,18 +78,6 @@ I'm currently expanding my expertise in **AWS, containerization, infrastructure 
 
 ---
 
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pollito96&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pollito96&layout=compact&theme=tokyonight" />
-</p>
-
----
-
 ## Contact
 
 [![Portfolio](https://img.shields.io/badge/View_My_Portfolio-181717?logo=githubpages&logoColor=white)](https://pollito.github.io)

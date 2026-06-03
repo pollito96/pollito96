@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Cloud+%26+DevOps+Engineer;AWS+%7C+DevSecOps+%7C+Cybersecurity;Infrastructure+Automation+%26+Cloud+Security&center=true&width=700&height=50">
 </p>
 
-# 👋 Hi, I'm Víctor Irribarría
+# I'm Víctor Irribarría
 
 I'm a developer with a Full Stack background and experience in cybersecurity and pentesting environments, currently focused on **Cloud, DevOps, and DevSecOps**.
 
@@ -12,7 +12,7 @@ I'm currently expanding my expertise in **AWS, containerization, infrastructure 
 
 ---
 
-## 🚀 Current Focus
+## Current Focus
 
 - ☁️ Cloud Infrastructure & AWS
 - ⚙️ DevOps & CI/CD Automation
@@ -24,9 +24,9 @@ I'm currently expanding my expertise in **AWS, containerization, infrastructure 
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
-### ☁️ Cloud & DevOps
+### Cloud & DevOps
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
@@ -35,7 +35,7 @@ I'm currently expanding my expertise in **AWS, containerization, infrastructure 
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
 
-### 💻 Programming Languages
+### Programming Languages
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
@@ -43,18 +43,18 @@ I'm currently expanding my expertise in **AWS, containerization, infrastructure 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-121011?logo=gnu-bash&logoColor=white)
 
-### ⚙️ Backend
+### Backend
 
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?logo=springboot&logoColor=white)
 
-### 🎨 Frontend
+### Frontend
 
 ![Angular](https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue-4FC08D?logo=vue.js&logoColor=white)
 
 ---
 
-## 🔒 Areas of Interest
+## Areas of Interest
 
 - DevSecOps
 - Cloud Security
@@ -67,7 +67,7 @@ I'm currently expanding my expertise in **AWS, containerization, infrastructure 
 
 ---
 
-## 🎯 Current Goals
+## Current Goals
 
 - Build production-ready cloud infrastructures on AWS
 - Master Kubernetes and container orchestration
@@ -78,7 +78,7 @@ I'm currently expanding my expertise in **AWS, containerization, infrastructure 
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Pollito96&show_icons=true&theme=tokyonight" />
@@ -90,7 +90,9 @@ I'm currently expanding my expertise in **AWS, containerization, infrastructure 
 
 ---
 
-## 📫 Contact
+## Contact
+
+[![Portfolio](https://img.shields.io/badge/View_My_Portfolio-181717?logo=githubpages&logoColor=white)](https://pollito.github.io)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/víctor-irribarría-sánchez-338555406/)
 
